@@ -27,7 +27,7 @@
 
 ---
 
-### 🛠 Tech Stack
+### 🛠 Skills and Tools
 
 #### DevOps & Cloud
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
@@ -83,10 +83,10 @@
 ---
 
 ## 🎮 Gaming & NFTs  
-![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat&logo=steam&logoColor=white)  
-![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=flat&logo=epicgames&logoColor=white)  
-![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=flat&logo=riotgames&logoColor=white)  
-![EA](https://img.shields.io/badge/ea-%23000000.svg?style=flat&logo=ea&logoColor=white)  
+![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat&logo=steam&logoColor=white)
+![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=flat&logo=epicgames&logoColor=white)
+![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=flat&logo=riotgames&logoColor=white)
+![EA](https://img.shields.io/badge/ea-%23000000.svg?style=flat&logo=ea&logoColor=white)
 ![OpenSea](https://img.shields.io/badge/OpenSea-%232081E2.svg?style=flat&logo=opensea&logoColor=white)
 ---
 
