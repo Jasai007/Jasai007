@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Jasai</h1>
-<h3 align="center">DevOps Enthusiast | Tech Blogger | Artist at Heart</h3>
+<h3 align="center">DevOps Enthusiast | Tech Blogger | Lifelong Learner </h3>
 
 <p align="center">
   I'm a curious soul navigating the crossroads of <strong>DevOps, Cloud, Creativity, and Community</strong>. <br>
@@ -22,8 +22,15 @@
 
 ### 📫 Let’s Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/jasai-hansda-a5bbb3189/)
-- 📧 Email: jasaiofficial@gmail.com
+
+  <a href="https://linkedin.com/in/your-profile" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
 
 ---
 
@@ -37,6 +44,7 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white)
+
 
 #### Programming & Scripting
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
@@ -88,6 +96,8 @@
 ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=flat&logo=riotgames&logoColor=white)
 ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=flat&logo=ea&logoColor=white)
 ![OpenSea](https://img.shields.io/badge/OpenSea-%232081E2.svg?style=flat&logo=opensea&logoColor=white)
+![MetaMask](https://img.shields.io/badge/MetaMask-F6851B?style=flat-square&logo=metamask&logoColor=white)
+
 ---
 
 
