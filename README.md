@@ -10,10 +10,11 @@
 
 ### ⚡ What I’m Up To
 
+- 🎯 Transitioning to a DevOps Engineer role | 2+ years as a Software Engineer
+- 🎯 Learning & applying **AWS, CI/CD, Docker, Kubernetes, Terraform, and more**
 - 🚀 Building full-cycle **DevOps projects** with real-world use cases  
-- ✍️ Blogging at **Demystifying Tech with Jasai** – simplifying DevOps, Cloud, and Networking  
-- 👕 Running **Berzerkz** – a clothing brand inspired by Anime, Hip-Hop & Gaming  
-- 🎯 Learning & applying **CI/CD, Docker, Kubernetes, AWS, and Terraform**  
+- ✍️ Passionate about simplifying tech through writing | Blog: Demystifying Tech with Jasai
+- 🎮 Gaming & creative expression keep me inspired
 - 💼 Actively seeking a **DevOps Engineer** role to learn, contribute, and grow  
 
 ---
