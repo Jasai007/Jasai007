@@ -21,8 +21,8 @@
 
 ### 📫 Let’s Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
-- 📧 Email: your.email@example.com
+- 💼 [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/jasai-hansda-a5bbb3189/))
+- 📧 Email: jasaiofficial@gmail.com
 
 ---
 
