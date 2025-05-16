@@ -1,6 +1,6 @@
 ## Hi there 👋 I am Jasai Hansda
 
-<div align="center">
+
 
 # 💫 About Me  
 🎯 Transitioning to a DevOps Engineer role | 2+ years as a Software Engineer  
