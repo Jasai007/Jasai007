@@ -15,13 +15,14 @@
 - 🚀 Building full-cycle **DevOps projects** with real-world use cases  
 - ✍️ Passionate about simplifying tech through writing | Blog: Demystifying Tech with Jasai
 - 🎮 Gaming & creative expression keep me inspired
-- 💼 Actively seeking a **DevOps Engineer** role to learn, contribute, and grow  
+- 💼 Actively seeking a **DevOps Engineer** role to learn, contribute, and grow
+- 📬 Always open to collaborate or chat — let's connect!
 
 ---
 
 ### 📫 Let’s Connect
 
-- 💼 [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/jasai-hansda-a5bbb3189/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/jasai-hansda-a5bbb3189/)
 - 📧 Email: jasaiofficial@gmail.com
 
 ---
